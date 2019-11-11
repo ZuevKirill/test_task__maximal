@@ -1,5 +1,4 @@
-# test_task__maximal
-Тестовое для Максимал
+# test-task_maximal
 
 > A Vue.js project
 
